@@ -1,0 +1,50 @@
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #DDD !important;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.media-body {
+    margin-left: 50px;
+}
+img.media-object {
+  height: 100px;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.media-body {
+    margin-top: 5px;
+}
+button {
+    background-color: #d3d3d3;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 14px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    margin-top: 10px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1:hover {
+    background-color: #e7e7e7;
+}
+
+#search {
+    margin-bottom: 40px;
+}
